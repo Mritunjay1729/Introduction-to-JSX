@@ -1,6 +1,6 @@
 # Introduction-to-JSX
 
-const element = <h1>Hello, world!</h1>
+const element = <"h1>Hello, world!</h1>";
 
 Created with CodeSandbox
 This funny tag syntax is neither a string nor HTML.
