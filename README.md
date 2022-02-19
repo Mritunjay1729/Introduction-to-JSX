@@ -1,7 +1,7 @@
 # Introduction-to-JSX
 Created with CodeSandbox!
 
-https://user-images.githubusercontent.com/77975156/154792262-be7578b5-2d5d-4bb5-b889-8f0957816e73.png
+<img src="https://user-images.githubusercontent.com/77975156/154792262-be7578b5-2d5d-4bb5-b889-8f0957816e73.png" alt="JSX command">
 
 This funny tag syntax is neither a string nor HTML.
 
