@@ -1,7 +1,7 @@
 # Introduction-to-JSX
 Created with CodeSandbox!
 
-[Screenshot from 2022-02-19 13-24-48](https://user-images.githubusercontent.com/77975156/154792262-be7578b5-2d5d-4bb5-b889-8f0957816e73.png)
+https://user-images.githubusercontent.com/77975156/154792262-be7578b5-2d5d-4bb5-b889-8f0957816e73.png
 
 This funny tag syntax is neither a string nor HTML.
 
